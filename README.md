@@ -1,6 +1,6 @@
 # React Project
 
-## This is my first react project developed, with the creation of an attendance list.
+This is my first react project developed, with the creation of an attendance list.
 
 Usage of Hooks (useState, useEffect), API consumption, componetization
 
